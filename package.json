@@ -1,6 +1,6 @@
 {
   "name": "remark-ruby-links",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "remark plugin to transform links into ruby",
   "license": "MIT",
   "keywords": [
